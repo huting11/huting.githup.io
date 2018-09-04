@@ -1,0 +1,13 @@
+// JSON Document
+    var jsonObj = {
+         "name" : "老娘天下第一~~",
+          "text" : "也会快乐也会难过",　　　
+        }
+	var goods = {
+		"name":"易搭",
+		"style":"类型：甜美",
+		
+		"avatar": "../images/index01/forcarousel1.jpg",
+	}
+
+		

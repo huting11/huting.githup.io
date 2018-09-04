@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+.contaner1{
+	width: 400px;
+	height: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	margin-top:100px;	
+}
+.nav-tabs{
+	border-bottom: none;
+}
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:active
+{
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	background-color: rgba(0, 0, 0, 0);
+	
+}
+.li1{
+	border-bottom: #B8D9EB solid 1px;
+}
+a{
+	color: #000000;
+}
+.div1{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 200px;
+}
+.p1{
+	font-size: 12px;
+	margin-left: 50px;
+	cursor:pointer;
+}
+.p2{
+	font-size: 12px;
+	margin-right: 50px;
+	cursor:pointer;
+}
+.div2{
+	height: 50px;
+	width: 300px;
+	background-color: #F8373B;
+	line-height: 50px;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-radius: 25px;
+	text-align: center;
+	cursor:pointer;
+}
+img{
+	height: 25px;
+	width: 25px;
+}
+.p3{
+	font-size: 12px;
+	margin-left: 50px;
+}
+
+.ma{
+	height: 50px;
+	width: 50px;
+	margin-bottom: 0px;
+}
+.qita{
+	margin-top: 22px;
+	height: 20px;
+}
+
+
+
